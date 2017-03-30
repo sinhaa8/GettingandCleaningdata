@@ -1,7 +1,3 @@
-getwd()
-#Set Working Directory
-setwd("C:/Ashish_Data/Work/Parag/coursera/Module3/getdata%2Fprojectfiles%2FUCI HAR Dataset/UCI HAR Dataset")
-getwd()
 
 
 #creates a second, independent tidy data set with the average of each variable for each activity and each subject.
